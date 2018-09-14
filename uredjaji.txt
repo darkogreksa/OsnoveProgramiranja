@@ -1,0 +1,13 @@
+tw004:Galaxy S5:Samsung:Mobilni telefon:86
+tw002:Galaxy S6:Samsung:Mobilni telefon:0
+tw001:Huawei P8:Huawei:Mobilni telefon:50
+tw003:Huawei P9:Huawei:Mobilni telefon:98994
+tw006:Galaxy S5:Samsung:Mobilni telefon:118
+tw008:Galaxy S6:Samsung:Mobilni telefon:0
+tw005:Huawei P8:Huawei:Mobilni telefon:53
+tw007:Huawei P9:Huawei:Mobilni telefon:100598
+tw009:Galaxy S5:Samsung:Mobilni telefon:120
+tw012:Galaxy S6:Samsung:Mobilni telefon:0
+tw011:Huawei P8:Huawei:Mobilni telefon:0
+tw013:Huawei P9:Huawei:Mobilni telefon:31
+tw050:Karburator:Metal:Odlican:5
